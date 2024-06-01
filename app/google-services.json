@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "48631342238",
+    "project_id": "collegeinfo-39738",
+    "storage_bucket": "collegeinfo-39738.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48631342238:android:cf63da7273e2d3ab36078f",
+        "android_client_info": {
+          "package_name": "coding.insight.cleanuiloginregister"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48631342238-6c9s9g3ef0a5ekisl6mgrfspi9bqs6if.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMfRyd9RlWhXcCW7vqr02UHeZf0cKCSh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48631342238-6c9s9g3ef0a5ekisl6mgrfspi9bqs6if.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48631342238:android:0e278785290467e536078f",
+        "android_client_info": {
+          "package_name": "com.example.collegeinfo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48631342238-6c9s9g3ef0a5ekisl6mgrfspi9bqs6if.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMfRyd9RlWhXcCW7vqr02UHeZf0cKCSh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48631342238-6c9s9g3ef0a5ekisl6mgrfspi9bqs6if.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

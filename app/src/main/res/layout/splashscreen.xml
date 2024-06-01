@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/ic_sign_up"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".splashscreen">
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/education"
+        android:layout_marginTop="100dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="CollegeInfo"
+        android:gravity="top"
+        android:textSize="60dp"
+        android:textColor="#0A56CC"
+        android:fontFamily="@font/alegreya_sc"
+        />
+
+
+
+</LinearLayout>
